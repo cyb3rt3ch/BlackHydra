@@ -27,9 +27,9 @@ print "                                    __/ |                 "
 print "                                   |___/                  "
 
 print
-print ("-"*60)
+print ("-"*58)
 print "   v1.0 coded by https://github.com/cyb3rt3ch/BlackHydra"
-print ("-"*60)
+print ("-"*58)
 print
 
 print "              ===|[ Brute Force ]|==="
